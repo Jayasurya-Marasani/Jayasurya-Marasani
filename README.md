@@ -5,7 +5,7 @@
   <h1 align="center">Visitor's Count</h1>
   <img src="https://profile-counter.glitch.me/Jayasurya-Marasani/count.svg" />
 </div>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jayasurya-Marasani&" alt="Jayasurya-Marasani" /></p>
 ### Hi there 👋
 
 <!--
