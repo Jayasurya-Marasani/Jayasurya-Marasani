@@ -1,10 +1,9 @@
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jayasurya-Marasani&show_icons=true&theme=tokyonight" />
 </a></p>
-
 <div align='center'>
-  <h1 align="center">Visitors Count</h1>
-  <img src="https://profile-counter.glitch.me/narendra539804/count.svg" />
+  <h1 align="center">Visitor's Count</h1>
+  <img src="https://profile-counter.glitch.me/Jayasurya-Marasani/count.svg" />
 </div>
 
 ### Hi there 👋
