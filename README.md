@@ -13,9 +13,12 @@
 </div>
 
 <p align="center"><a href="https://github.com/Jayasurya-Marasani?tab=repositories">
-  <img  src="https://github-readme-stats.vercel.app/api?username=Jayasurya-Marasani&show_icons=true&theme=dracula" />
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Jayasurya-Marasani&" alt="Jayasurya-Marasani" />
+  <img  align="center" src="https://github-readme-stats.vercel.app/api?username=Jayasurya-Marasani&show_icons=true&theme=dracula" />
+ 
 </a></p>
+<p align="center">
+   <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jayasurya-Marasani&" alt="Jayasurya-Marasani" />
+</p>
 
 <p align="center">
   
