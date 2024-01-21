@@ -14,14 +14,15 @@
 
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jayasurya-Marasani&show_icons=true&theme=dracula" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jayasurya-Marasani&" alt="Jayasurya-Marasani" />
 </a></p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jayasurya-Marasani&" alt="Jayasurya-Marasani" />
+  
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayasurya-Marasani&layout=donut-vertical" alt="Jayasurya-Marasani" />
 </p>
 
-[![Top Langs])](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
