@@ -2,7 +2,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jayasurya-Marasani&show_icons=true&theme=tokyonight" />
 </a></p>
 <div align='center'>
-### Visitors Count 
+<p>### Visitors Count </p>
 
   <img src="https://profile-counter.glitch.me/narendra539804/count.svg" />
 </div>
