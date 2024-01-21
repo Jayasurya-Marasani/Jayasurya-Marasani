@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jayasurya-Marasani&show_icons=true&theme=tokyonight" />
 </a></p>
-- 👨‍💻 All of my projects are available at [https://jayasurya-marasani.github.io/](https://jayasurya-marasani.github.io/)
+- 👨‍💻 All of my projects are available at (https://jayasurya-marasani.github.io/)
 
 - 📫 How to reach me **jayasuryamarasani@gmail.com**
 
