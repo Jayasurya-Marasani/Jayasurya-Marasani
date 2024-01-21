@@ -12,7 +12,7 @@
   <img src="https://profile-counter.glitch.me/Jayasurya-Marasani/count.svg" />
 </div>
 
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
+<p align="center"><a href="https://github.com/Jayasurya-Marasani?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jayasurya-Marasani&show_icons=true&theme=dracula" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jayasurya-Marasani&" alt="Jayasurya-Marasani" />
 </a></p>
