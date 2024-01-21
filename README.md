@@ -17,7 +17,8 @@
 </a></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jayasurya-Marasani&" alt="Jayasurya-Marasani" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayasurya-Marasani&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayasurya-Marasani&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
 
 <!--
