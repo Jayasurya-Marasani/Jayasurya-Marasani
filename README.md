@@ -1,12 +1,23 @@
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jayasurya-Marasani&show_icons=true&theme=tokyonight" />
-</a></p>
+### Hi there 👋
+
+<h1 align="center">Hi 👋, I'm Jayasurya Marasani</h1>
+<h3 align="center">An Innovative, astute, diligent individual and a passionate fostered team performer.</h3>
+
+- 👨‍💻 All of my projects are available at (https://jayasurya-marasani.github.io/)
+
+- 📫 How to reach me **jayasuryamarasani@gmail.com**
+
 <div align='center'>
   <h1 align="center">Visitor's Count</h1>
   <img src="https://profile-counter.glitch.me/Jayasurya-Marasani/count.svg" />
 </div>
+
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jayasurya-Marasani&show_icons=true&theme=tokyonight" />
+</a></p>
+
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jayasurya-Marasani&" alt="Jayasurya-Marasani" /></p>
-### Hi there 👋
+
 
 <!--
 **Jayasurya-Marasani/Jayasurya-Marasani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,12 +33,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Jayasurya Marasani</h1>
-<h3 align="center">An Innovative, astute, diligent individual and a passionate fostered team performer.</h3>
 
-- 👨‍💻 All of my projects are available at (https://jayasurya-marasani.github.io/)
-
-- 📫 How to reach me **jayasuryamarasani@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
